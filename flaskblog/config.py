@@ -17,6 +17,6 @@ class Config:
     MAIL_USE_TLS = True
     MAIL_USE_SSL = False
     # MAIL_USERNAME = os.environ.get('USER_NAME')
-    MAIL_USERNAME = 'promiserahman38@gmail.com'
+    MAIL_USERNAME = 'put your email'
     # MAIL_PASSWORD = os.environ.get('USER_PASSWORD')
-    MAIL_PASSWORD = 'demigod5544332211'
+    MAIL_PASSWORD = 'put email password'
